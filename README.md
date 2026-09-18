@@ -1,4 +1,4 @@
-# 🏥 Digital Hospital
+# 🏥 Digital Hospital Agent
 
 ## 🚀 Full-Stack Healthcare Management & AI Assistant Platform
 
